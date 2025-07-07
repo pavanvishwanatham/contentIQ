@@ -1,0 +1,18 @@
+# Core LLM ecosystem
+langchain
+langgraph
+langchain-openai
+langchain-community
+openai
+
+# Azure
+azure-search-documents
+azure-storage-blob
+python-dotenv
+
+# Document handling
+pypdf
+python-pptx
+
+# HTTP client
+requests
